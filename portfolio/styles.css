@@ -378,6 +378,7 @@ profile-photo .img{
 }
 .project:hover{
   border-color: #fed700;
+  border-width: 10px;
 }
 
 
